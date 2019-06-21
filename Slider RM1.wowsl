@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.8</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>slide</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>18</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>Slider RM</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>dribbles</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>768</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/stream/</ImageTemplate>
+            <ImageTemplateName>Stream</ImageTemplateName>
+            <ImageWidth>1024</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>true</OneLoop>
+            <OrderRandom>true</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>D:/Seduca/4 Semestre/Graficación y Multimedios 2019A Gpo. 2D/RealMonteF/RealMonte/Sitios wowslider.html</PublishFileName>
+            <PublishIndex>Sitios wowslider.html</PublishIndex>
+            <PublishPath>D:/Seduca/4 Semestre/Graficación y Multimedios 2019A Gpo. 2D/RealMonteF/RealMonte</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>true</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#ffffff</TemplateColor>
+            <TemplateFont>PT Sans</TemplateFont>
+            <TemplateName>stream</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>D:/Seduca/4 Semestre/Graficación y Multimedios 2019A Gpo. 2D/RealMonteF/RealMonte/img/Panteon.GIF</url>
+                <title>Panteón Inglés</title>
+                <description>Se encuentra en un cerro junto al cerro del judío, en el barrio de Mineral del Monte. En el año 1834 se originó con el nombre de panteón inglés. En 1851 lo restauran, en 1862 colocan la puerta de hierro, el descanso donde se realizan aun ceremonias de la logia o religión que profesen. El famoso cementerio es muestra única de su arquitectura que integra encanto y mística en sus interiores. Es uno de los sitios de mayor interés para los visitantes, incluso gente de Inglaterra, Suiza, Estados Unidos, del territorio nacional y por supuesto de Hidalgo.
+</description>
+                <filesize>313460</filesize>
+            </Image>
+            <Image>
+                <url>D:/Seduca/4 Semestre/Graficación y Multimedios 2019A Gpo. 2D/RealMonteF/RealMonte/img/minaa.GIF</url>
+                <title>Mina de Acosta.</title>
+                <description>Inicia sus trabajos en 1727 y mantiene su actividad productiva hasta el año de 1985. Hoy en día se ha convertido en un importante Museo en el que podrás conocer su historia y aspectos relevantes del trabajo minero. En el sitio se encuentran vestigios e instalaciones arquitectónicas, testimonio de sus etapas históricas: la colonia, la inmigración e inversión inglesa en la región iniciando la era del vapor y la llegada de la electricidad con los inversionistas norteamericanos. Visitarás el interior de la mina donde conocerás una veta de plata, después de un recorrido histórico sobre el trabajo del minero.	</description>
+                <filesize>422378</filesize>
+            </Image>
+            <Image>
+                <url>D:/Seduca/4 Semestre/Graficación y Multimedios 2019A Gpo. 2D/RealMonteF/RealMonte/img/Panoramica1.jpg</url>
+                <title>Panorámica Real del Monte</title>
+                <description>En medio de un encantador paisaje montañoso se alza una peculiar villa de notable estilo británico, que contrasta con los aromas del campo mexicano a pulque y maíz; se trata de Real del Monte, Pueblo Mágico del estado de Hidalgo, que debe su belleza a un glorioso pasado minero del que solo queda el recuerdo y los túneles de las minas convertidos en museos.</description>
+                <filesize>392288</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
